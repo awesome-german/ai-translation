@@ -198,6 +198,12 @@ Check out the [German-English Dictionary App for Scientifically-Efficient Modern
 - [WMT Mailing List](https://groups.google.com/g/wmt-tasks) - Discussion group for MT shared tasks.
 - [German NLP Community](https://german-nlp.github.io/) - Resources for German language processing.
 
+## Disclaimer
+
+This independent, curated list points to third-party resources. None of the projects, publishers, platforms or organizations it links to have affiliated with, sponsored or endorsed it, and all names and trademarks belong to their owners.
+
+Other people run the linked sites, so their content, availability, prices and terms can change at any time. A listing here doesn't guarantee a resource's accuracy, safety or quality, so check each resource's own terms before you use it or pay for anything. Corrections and removal requests are welcome as issues.
+
 ## Contributing
 
 Contributions are welcome! Please read the [contribution guidelines](https://github.com/awesome-german/ai-translation/blob/main/CONTRIBUTING.md) first.
@@ -205,3 +211,21 @@ Contributions are welcome! Please read the [contribution guidelines](https://git
 ---
 
 *Maintained by the awesome-german community*
+
+## License
+
+The text of this list is licensed under [CC BY 4.0](LICENSE). Linked resources are covered by their own licenses and terms.
+
+Copyright © 2025-2026 Aesthetic Vulpes ([github.com/didvc](https://github.com/didvc)). If you reuse or cite this list, credit Aesthetic Vulpes and link to this repository. Citation metadata is in [CITATION.cff](CITATION.cff).
+
+<!-- BEGIN gh-mutual-linking -->
+
+---
+
+### Related projects
+
+- [ai-tools](https://github.com/awesome-german/ai-tools): AI-powered tools and chatbots that personalize German learning and automate feedback.
+- [terminology](https://github.com/awesome-german/terminology): Terminological databases, domain-specific glossaries, dictionaries, and resources for technical German language learning and professional translation.
+- [academic-corpora](https://github.com/awesome-german/academic-corpora): Academic texts and linguistic corpora for German language research.
+
+<!-- END gh-mutual-linking -->
