@@ -46,6 +46,7 @@ Check out the [German-English Dictionary App for Scientifically-Efficient Modern
 - [SYSTRAN](https://www.systran.net/) - Professional translation software with neural MT capabilities.
 - [ModernMT](https://www.modernmt.com/) - Open-source neural machine translation platform with domain adaptation.
 - [Apertium](https://www.apertium.org/) - Free/open-source rule-based machine translation platform supporting German.
+- [MangaTranslate](https://www.mangatranslate.com/) - Browser-based manga and comic image translation for readers and localization teams, with German source and target support, editable dialogue and typesetting, limited daily free credits and paid plans.
 
 ### Translation APIs
 
